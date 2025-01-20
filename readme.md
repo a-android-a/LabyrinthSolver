@@ -10,5 +10,5 @@ space - to solve mazes
 ## installation
 ```git clone https://github.com/a-android-a/LabyrinthSolver.git```
 ## technologies
-C++
-SFML
+* C++
+* SFML
